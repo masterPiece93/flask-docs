@@ -1,6 +1,6 @@
 1. It requires all the arguments of a function to have type-hints .
     
-    HINT : use inspect.getargspec(func)
+    - HINT : use inspect.getargspec(func)
     
 2. since only built-in type-hints are supported , there is no message for if user specifies a custom made type-hint.
     e.g below will fail :-
