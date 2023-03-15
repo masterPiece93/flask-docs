@@ -3,8 +3,8 @@ Collection of Best Practices , New Project Design Patterns in Flask , Solutions 
 
 **typechecksimplr** :
 This package provides :-
-- @strict decorator
-- TypeCheck class
+- `@strict` decorator
+- `TypeCheck` class
 
 @strict decorator :
 applied on whichever python function , it checks for the type hints ( built-in types )
