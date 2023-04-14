@@ -3,5 +3,5 @@
 
 ### Table of Contents :
 1. JsonApiResponse :
-  - `anApiResponse` - contains the code & directions of usage . 
-  - [docs](https://github.com/masterPiece93/flask-docs/wiki/JsonApiResponse)
+  * anApiResponseSample - contains the code & directions of usage . 
+  * [docs](https://github.com/masterPiece93/flask-docs/wiki/JsonApiResponse)
